@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-container01{
+    background-color: aliceblue;
+    height: 100vh;
+    background-size: cover;
+}
+#heading01{
+    color: #323f4b;
+    font-size: 65px;
+    font-weight: 700;
+}
+#count{
+    color: #323f4b;
+    font-size: 65px;
+    font-weight: bold;
+}
+#button01{
+    background-color: green;
+    width: 140px;
+    height:40px;
+    color: #fff;
+    
+}
+#button02{
+    background-color: transparent;
+    width: 140px;
+    height:40px;
+    color: #000;
+    
+}
+#button03{
+    background-color: red;
+    width: 140px;
+    height:40px;
+    color: #fff;
+    
+}
